@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # good-mood
 
 ## Build Setup
@@ -67,3 +68,7 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+# good-food-mood
+This website has created to solve challenges from Elemes.id for Front-end developer position.
+>>>>>>> 5ebb357376b2c7885bfa5fab25a43cf8657e2c3e
