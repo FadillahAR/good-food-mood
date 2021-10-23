@@ -1,0 +1,118 @@
+/* Hero */
+.hero-bg{
+  background-image: url("../images/foods.png");
+  background-size: cover;
+  width: 100%;
+}
+.greensalad {
+  display: none;
+}
+
+.mt-10 {
+  margin-top: 9.5em;
+ }
+
+h1 {
+  font-size: 60px;
+  font-weight: 600;
+  color: #8BAC3E;
+  line-height: 64px;
+}
+
+p {
+  color: #757575;
+  font-size: 18px;
+  word-spacing: 4px;
+}
+
+.nav-hero {
+  padding-right: 10px;
+}
+
+.green {
+  width: 412px;
+}
+
+.btn-success {
+  box-shadow: 0px 8px 32px rgba(102, 107, 226, 0.35);
+  width: 147px;
+  height: 42px;
+  font-size: 14px;
+  padding: 10px 18px;
+  border: none;
+  font-weight: 500;
+}
+
+h5 {
+  color: #333333;
+}
+
+.ml-6 {
+  margin-left: 6rem;
+}
+
+.card-img-left{
+  margin-left: 1rem;
+  place-self: center;
+  width: 53px;
+  height: 53px;
+}
+
+.card-tomato {
+  margin-top: -100px;
+  margin-left: -50px;
+  width: 292px !important;
+  height: 93px !important;
+  position: absolute;
+  border: none;
+  border-radius: 10px;
+}
+
+.card-tomato .card-title {
+  font-size: 14px;
+  color: #000000;
+  font-weight: 600;
+  margin-bottom: 2px;
+
+
+}
+
+.card-tomato .card-text {
+  font-size: 12px;
+  margin-bottom: 2px;
+}
+
+.card-tomato .fa-star {
+  color: #FF8412;
+}
+
+
+/* Mobile */
+
+.mobile {
+  margin-top: 0px;
+}
+.mobile h1 {
+  margin-top: 1em;
+  font-size: 48px;
+  margin-bottom: 1em;
+}
+
+.mobile p {
+  font-size: 16px;
+  letter-spacing: 0px;
+}
+
+.mobile .hero-img {
+  width: 300px;
+  height: 300px ;
+}
+
+.mobile .card-tomato {
+  margin-top: -100px;
+  margin-left: 140px;
+  width: 252px !important;
+  height: 93px !important;
+  position: absolute;
+  border-radius: 10px;
+}

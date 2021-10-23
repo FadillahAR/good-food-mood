@@ -1,0 +1,123 @@
+/* Footer */
+
+.footer {
+  background-color: #F9FFF6;
+  border-radius: 20px;
+  padding: 2%;
+  width: 95%;
+  margin: 0px auto;
+}
+
+.elemes-footer {
+  flex-grow: 2;
+}
+.elemes-footer img {
+  margin-bottom: 22px;
+}
+
+address {
+  color: #757575;
+  font-size: 14px;
+}
+
+.categories h3 {
+  font-weight: 500;
+  color:#333333;
+  font-size: 18px;
+  margin-bottom: 2em;
+}
+
+.categories h6 {
+  font-weight: 500;
+  color:#757575;
+  font-size: 14px;
+  margin-bottom: 1.2em;
+}
+
+.categories h6:hover {
+  cursor: pointer;
+  color: #8BAC3E;
+}
+
+.about h3 {
+  font-weight: 500;
+  color:#333333;
+  font-size: 18px;
+  margin-bottom: 2em;
+}
+
+.about h6 {
+  font-weight: 500;
+  color:#757575;
+  font-size: 14px;
+  margin-bottom: 1.2em;
+}
+
+.about h6:hover {
+  cursor: pointer;
+  color: #8BAC3E;
+}
+
+.newsletter h3 {
+  font-weight: 500;
+  color:#333333;
+  font-size: 18px;
+  margin-bottom: 2em;
+}
+
+.newsletter h6 {
+  font-weight: 500;
+  color:#757575;
+  font-size: 14px;
+  margin-bottom: 1.2em;
+  line-height: 24px;
+}
+
+.newsletter .input-group {
+  margin-bottom: 19px;
+}
+
+.fa-envelope, .fa-phone-alt, .fa-instagram {
+color: #8BAC3E;
+}
+
+
+
+.media .card-body {
+  padding:8px 14px;
+}
+
+.media .card {
+  border-radius: 24px;
+}
+
+.media .card:hover{
+  background-color: #8BAC3E;
+}
+.media .card:hover .fa-envelope, .media .card:hover .fa-phone-alt, .media .card:hover .fa-instagram{
+  color : white;
+}
+
+.copyright p {
+  letter-spacing: 1px;
+  font-size: 12px;
+}
+
+.btn-email {
+  background-color: #8BAC3E;
+  border-color: none;
+}
+
+.btn-email:hover {
+  background-color: #218838;
+}
+
+.mt-11 {
+  margin-top: 20em;
+}
+
+/* Mobile */
+.toogle-menu {
+  background-color: white;
+  text-align: center;
+}

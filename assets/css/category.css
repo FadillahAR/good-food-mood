@@ -1,0 +1,99 @@
+/* Category */
+
+h2 {
+  font-size: 38px;
+  margin-bottom: 2.2em;
+}
+
+h2 span {
+  color: #8BAC3E;
+}
+
+.category-card .card {
+  transition: transform .5s;
+  border-color: gray;
+  width: 230px;
+  height: 173px;
+}
+
+.category-card .cupcake {
+  border-radius: 8px;
+  border:none;
+  background-color:  #F0FEEB;
+}
+
+.category-card .pizza {
+  border-radius: 8px;
+  border:none;
+  background-color:  #E6F3F5;
+}
+
+.category-card .kebab {
+  border-radius: 8px;
+  border:none;
+  background-color:  #EAEEFA;
+}
+
+.category-card .salmon {
+  border-radius: 8px;
+  border:none;
+  background-color:  #F9EEF3;
+}
+
+.category-card .doughnut {
+  border-radius: 8px;
+  border:none;
+  background-color:  #F3F7D9;
+}
+
+.category-card .card:hover {
+  transform: scale(1.1);
+}
+
+.card-img-top {
+  margin-top: 32px;
+  align-self: center;
+  width: 47px;
+  height: 47px;
+}
+
+.category-card .card-body {
+  text-align: center;
+}
+
+.category-card .card-title {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.category-card .card-text {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+
+.card-button {
+  margin-top: 3.5em;
+}
+
+.card-button .col {
+  display: flex;
+  place-content: end  ;
+}
+
+.card-button .btn-success {
+  border-radius: 17px;
+  margin-right: 1em;
+}
+
+/* Mobile */
+.mobile .category-card .card {
+  margin-right: 20px;
+  border-color: gray;
+  width: 180px;
+  height: 173px;
+}
+
+.mobile .category-card {
+  display: flex;
+}

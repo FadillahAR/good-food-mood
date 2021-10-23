@@ -1,6 +1,9 @@
 <template>
   <div class="app">
-    <TheNavbar />
+    <div class="hero-bg">
+      <TheNavbar />
+      <TheHero />
+    </div>
     <Nuxt />
     <TheFooter />
   </div>

@@ -2,8 +2,8 @@
   <div class="hero">
     <!-- Dekstop -->
     <div class="d-none d-md-block">
-      <b-container class="justify-content-md-center mt-10">
-          <b-row>
+      <b-container class="justify-content-md-center">
+          <b-row class="mt-10">
             <b-col>
               <h1>Good Food Us<br>Good Mood</h1>
               <p class="mt-4">I would think that conserving our natural resources <br>should be a conservative position: Not to waste food, and not to throw away a lot of the food that we buy.</p>

@@ -2,7 +2,7 @@
   <div>
 
     <!-- Dekstop -->
-    <b-container class="d-none d-md-none d-lg-block mt-2">
+    <b-container class="d-none d-md-none d-lg-block">
       <b-navbar >
         <img src="../assets/images/elemes.png" class="logo ml-1" alt="">
         <b-navbar-nav class="mx-auto">

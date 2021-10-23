@@ -1,13 +1,12 @@
 <template>
-  <b-container>
-    <TheHero />
+  <div>
     <RecipeCategory />
     <RecipeTrending />
-  </b-container>
+  </div>
 </template>
 
 <script>
 export default {
-  
+
 }
 </script>

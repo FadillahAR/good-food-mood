@@ -1,0 +1,72 @@
+/* Trending */
+
+.trending {
+  margin-top: 15em;
+}
+
+.card-trending .card {
+  transition: transform .4s;
+  border: none;
+  border-radius: 10px;
+  width: 244px;
+  height: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.card-trending .pizza {
+  background-color: #E6F3F5;
+}
+
+.card-trending .kebab {
+  background-color: #EAEEFA;
+}
+
+.card-trending .salmon {
+  background-color: #F9EEF3;
+}
+
+.card-trending .cupcake {
+  background-color:  #F0FEEB;
+}
+
+.card-trending .doughnut{
+  background-color: #F3F7D9;
+}
+
+.card-trending .card:hover {
+  transform: scale(1.08);
+}
+
+.card-trending .card .card-img-top {
+  place-self: start;
+  border-radius: 6px;
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 110px;
+  height: 110px;
+}
+
+.card-trending .card .card-body {
+  text-align: left;
+}
+
+.card-trending .card .card-title {
+  margin-bottom: 2px;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.card-trending .card .card-text {
+  color: #8BAC3E;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.card-trending .fa-star {
+  margin-top: 0px;
+  color: #FF8412;
+}
+
+.mobile .mt-5 {
+  margin-bottom: 5em;
+}
