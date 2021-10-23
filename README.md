@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # good-mood
 
 ## Build Setup
