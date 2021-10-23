@@ -1,0 +1,44 @@
+.trending {
+  margin-top: 15em;
+}
+
+.card-trending .card {
+  transition: transform .4s;
+  border: none;
+  width: 288px;
+  height: 306px;
+}
+
+.card-trending .card:hover {
+  transform: scale(1.08);
+}
+
+.card-trending .card .card-img-top {
+  place-self: start;
+  margin-left: 22px;
+  margin-top: 33px;
+  width: 120px;
+  height: 120px;
+}
+
+.card-trending .card .card-body {
+  text-align: left;
+}
+
+.card-trending .card .card-title {
+  font-size: 1em;
+}
+
+.card-trending .card .card-text {
+  color: #8BAC3E;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.card-trending .fa-star {
+  color: #FF8412;
+}
+
+.mobile .mt-5 {
+  margin-bottom: 5em;
+}
