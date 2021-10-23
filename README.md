@@ -50,8 +50,9 @@ $ netlify deploy --prod
 
 # Set publish directory
 
-#More information about the usage of this directory in [the documentation](https://docs.netlify.com/cli/get-started/#get-started-with-netlify-dev).
 ```
+More information about the usage of this directory in [the documentation](https://docs.netlify.com/cli/get-started/#get-started-with-netlify-dev).
+
 
 ## Obstacle
 
