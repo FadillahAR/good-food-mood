@@ -12,6 +12,8 @@ Here's workflow when building this website
 # creating nuxt app
 $ npx create-nuxt-app good-mood
 
+# setup packages, styling & code the components and pages and deploy to Netlify
+
 # serve with hot reload at localhost:3000
 $ npm run dev
 ```
